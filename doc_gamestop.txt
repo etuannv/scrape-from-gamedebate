@@ -1,0 +1,8 @@
+http://www.game-debate.com/games/index.php?list=software?
+
+Gamestop
+- Name
+- release year
+- min specs(if available)
+- recommended specs(if available)
+- thumbnail image
